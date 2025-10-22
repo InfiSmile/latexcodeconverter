@@ -1,0 +1,5 @@
+__pycache__
+*.pt
+
+latex_epoch89.pt
+train.py
