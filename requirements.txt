@@ -1,15 +1,14 @@
-
-
 streamlit==1.49.1
 torch==2.6.0
 torchvision==0.21.0
-transformers==4.45.2
-tokenizers==0.21.0
+transformers==4.46.3
+tokenizers==0.20.3
 huggingface_hub==0.26.2
 pandas==2.2.2
 numpy==1.26.4
 Pillow==10.4.0
 tqdm
 requests
+
 
 
