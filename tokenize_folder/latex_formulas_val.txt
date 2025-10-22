@@ -1,0 +1,1000 @@
+$ 1 0 7 + ( 8 2 \div 1 0 8 ) \neq - 9 0 $
+$ \sin ^ { 2 } \theta + \cos ^ { 2 } \theta = 1 $
+$ 2 \pi n ! e = 2 \pi n ! + \frac { 2 \pi n ! } { 2 } + \frac { 2 \pi n ! } { 3 ! } + \frac { 2 \pi n ^ { ! } } { 4 ! } + \ldots $
+$ \sum _ { { T \geq g } } { 8 . 2 } $
+$ r = r ( \theta ) $
+$ x \rightarrow x + y $
+$ \frac { p } { q } = \frac { p _ 0 } { q _ 0 } $
+"$ g ( x , y ) = \sqrt [ 3 ] { x - y } + \sqrt { | x + y | } $"
+$ \sum _ { { \mbox { z } \geq F } } { c } $
+$ \frac { 5 x - 7 } { 3 } \leq 2 x + 5 $
+$ \pi + e $
+$ { \mbox { Y } } _ { \mbox { M } } $
+$ G = 1 0 \log \left ( { \frac { V _ { s } } { V _ { e } } } \right ) ^ 2 \mathrm { d B } $
+$ a _ 7 x ^ 7 + a _ 6 x ^ 6 + a _ 5 x ^ 5 + a _ 4 x ^ 4 + a _ 3 x ^ 3 + a _ 2 x ^ 2 + a _ 1 x + a _ 0 = 0 $
+$ 9 { \sqrt { 2 } } $
+$ f = \sum _ i { f ( x _ a - x _ a ^ { ( i ) } ) } $
+$ \sqrt { x } = 1 { 0 ^ { ( l o g x ) / 2 } } $
+$ { \sqrt { 7 } + 2 \sqrt { 7 } } $
+$ \sum _ { i = 1 } ^ { n } i = \frac { 1 } { 2 } n ( n + 1 ) $
+$ \int ^ { 2 } _ { { \mbox { L } + \mbox { w } } } c d \gamma $
+$ { \sin } ^ { \mbox { Y } } 8 $
+$ u = R i $
+$ \sum _ { i = 1 } ^ k \frac { x ^ { a _ i } } { 1 - x ^ { b _ i } } = \frac { 1 } { 1 - x } $
+$ \sum _ { i = 1 } ^ k \frac { x ^ { a _ i } } { 1 - x ^ { b _ i } } = \frac { 1 } { 1 - x } $
+$ { ( \frac { 1 + { x ^ { 2 } } } { 1 + { y ^ { 2 } } } ) ^ { t } } \leq { 2 ^ { | t | } } { ( 1 + { ( x - y ) ^ { 2 } } ) ^ { | t | } } $
+$ \phi _ c ( n ) $
+$ { t } _ { \mbox { X } } $
+$ { 3 . 1 \geq \int \mbox { s } d c } $
+$ \int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { { x ^ { 2 } } } d x = \frac { \pi } { 2 } $
+$ \frac { 2 } { \sqrt { 2 - \sqrt { 2 } } } $
+"$ M _ i ( x _ i , y _ i ) $"
+$ v _ { c } = v _ { c - 1 } ( \frac { r - c } { c } ) $
+$ ( x + 2 ) ( a x ^ 2 + b x + c ) = a x ^ 3 + ( 2 a + b ) x ^ 2 + ( 2 b + c ) x + 2 c = x ^ 3 - 5 x - 2 $
+$ ( 6 8 / ( 2 + 1 6 2 ) ) \times 8 \geq 2 $
+$ { ( a ) ^ { - 1 } } - 1 $
+$ a ^ 2 + b ^ 2 = ( a + b i ) ( a - b i ) $
+$ \sum _ { i = 1 } ^ { 6 } { i ^ 2 } = 1 ^ 2 + 2 ^ 2 + 3 ^ 2 + 4 ^ 2 + 5 ^ 2 + 6 ^ 2 $
+$ y ^ 5 + p y + q $
+$ g $
+$ { { \mbox { B } + z } = { 2 \mbox { z } } } $
+"$ f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } ) $"
+$ \frac { b ^ 2 c ^ 2 - 4 b ^ 3 d - 4 a c ^ 3 + 1 8 a b c d - 2 7 a ^ 2 d ^ 2 } { a ^ 4 } $
+$ \sum { z } $
+$ \frac { 8 \sqrt { 2 } } { 3 } $
+$ \int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } { x ^ { 2 } } { y ^ { 2 } } d x d y $
+$ z _ 0 = \theta $
+$ 3 0 \pm ( ( 1 6 5 \div 5 ) - 1 1 1 ) + 1 6 6 $
+$ \frac { 1 0 0 ! } { 9 7 ! \cdot 6 ! } $
+$ o ( x ^ { 2 n + 1 } ) = o ( x ^ { 2 n + 2 } ) $
+$ \pi ^ { - 1 } ( b ) $
+$ { \mbox { u } } _ { \theta } $
+$ a ^ x a ^ y = a ^ { x + y } $
+$ 4 $
+$ \lim _ { x \rightarrow 0 } ( 1 + x ) ^ { \frac 1 x } $
+$ 8 2 . 8 $
+$ \frac { 3 k } { k + 2 } $
+$ 2 x ^ 3 + ( 1 - \sqrt { 1 3 } ) x ^ 2 - 2 x - 3 + \sqrt { 1 3 } $
+$ a _ { n } = a _ { 1 } + ( n - 1 ) d $
+$ \frac { \alpha - 1 } { \alpha + \beta - 2 } $
+$ \sqrt { x } = 1 { 0 ^ { ( l o g x ) / 2 } } $
+$ \lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty $
+$ E = F _ e \times l = \frac { 1 } { 2 } m v ^ 2 $
+$ \frac { x \times x \times x \times x \times x } { x \times x \times x } $
+$ d = ( 2 4 z ^ 5 + 4 8 c z ^ 3 + 8 z ^ 3 + 2 4 c ^ 2 z + 1 6 c z ) $
+$ z \rightarrow \frac { z ^ { n + 1 } } { a ^ n } $
+$ x = 2 $
+$ 4 + 4 + \frac { 4 } { 4 } $
+$ \sum 1 = \infty $
+$ { \left ( { - \int { \mbox { y } } _ { e } d a } \right ) } ^ { i } $
+$ a _ n = a _ { n } - 2 + a _ { n - 1 } + 1 $
+$ 3 4 . 8 $
+$ f ( x ) = { x ^ { n } } $
+$ \frac { - b + \sqrt { b ^ 2 - 4 a c } } { 2 a } $
+$ 1 6 9 / 1 6 3 \leq 1 $
+$ \frac { b ^ 2 c ^ 2 - 4 b ^ 3 d - 4 a c ^ 3 + 1 8 a b c d - 2 7 a ^ 2 d ^ 2 } { a ^ 4 } $
+$ 5 \pm ( 1 3 7 - 1 9 4 + 4 9 ) \times 3 6 $
+$ a _ { 1 } + a _ { 2 } $
+$ \sum _ a e ^ a e ^ a $
+$ \int _ { \log 3 } ^ 0 \frac 1 { e ^ t + 1 } d t $
+$ \frac { 4 } { 3 } \pi r ^ 3 $
+$ y ^ 4 + y + 1 = 0 $
+$ A _ { 2 k } = \frac { 2 R A _ k } { 2 R + \sqrt { 4 R ^ 2 + A ^ 2 _ k } } $
+$ a _ { 1 } + a _ { 2 } $
+$ \frac { 3 x + y } { z } = ( \frac { A - 1 } { { x ^ { 2 } } + { y ^ { 2 } } } ) $
+$ x _ { 1 } + x _ { 2 } = x _ { 3 } $
+$ a + b + c + d + e $
+$ \frac { l _ 2 } { l _ 1 } = \frac { l _ 3 } { l _ 2 } = \frac { l _ 1 + l _ 2 } { l _ 3 } $
+$ - \sum \limits _ { i } P _ { i } \log _ { n } P _ { i } $
+$ \frac { \sin B + \sin C } { \cos B + \cos C } $
+$ \frac { 2 1 } { 4 ( k + 6 ) } + \frac { 3 } { 4 ( k + 2 ) } $
+$ e ^ { i \pi } + 1 = 0 $
+$ n ! - 1 $
+$ \mbox { h } $
+$ \pi \int _ c ^ d \ { g ( y ) \ } ^ 2 d y $
+$ d p ^ 3 + 4 e p ^ 2 - c ^ 2 p ^ 2 - 2 c d p - d ^ 2 = 0 $
+$ \lambda e ^ { - \lambda e } $
+$ { ( a + b ) ^ { 3 } } = { a ^ { 3 } } + 3 { a ^ { 2 } } b + 3 a { b ^ { 2 } } + { b ^ { 3 } } $
+$ \frac { b } { { a ^ { 2 } } - a } - \frac { b } { a - 1 } $
+$ 3 \times 4 \times 5 \times 6 = 3 6 0 $
+$ { - d } $
+$ S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ i - ( n - 2 ) \pi \Bigg ) r ^ 2 $
+$ { I } _ { X } $
+$ a ^ x + b ^ x + \frac { c } { 2 } $
+$ y ^ 2 = - \sqrt { q } $
+$ 9 . 5 $
+$ x ^ 2 - z y ^ 2 + t ^ 3 - t z ^ { 2 n + 1 } = 0 $
+$ \frac { f } { \sum { f } } $
+$ x ^ 2 + y ^ 2 + z ^ 2 - t ( t - 2 a ) = 0 $
+$ \tan \left ( \frac { \pi } { 4 } \right ) = 1 $
+$ | z _ 1 | ^ 2 + | z _ 2 | ^ 2 + | z _ 3 | ^ 2 = 1 $
+$ { \cdots + { f } ^ { \mbox { j } } \left ( j \right ) } $
+$ j = \frac { g _ 2 ^ 3 } { g _ 2 ^ 3 - 2 7 g _ 3 ^ 2 } $
+$ a \geq - \frac { 1 } { 4 } $
+$ v \geq 0 $
+$ \sin ^ 2 ( x ) + \cos ^ 2 ( x ) = 1 $
+$ \sqrt { q } $
+$ 3 = - 1 ^ { 2 } + 2 ^ { 2 } - 3 ^ { 2 } - 4 ^ { 2 } + 5 ^ { 2 } $
+$ a _ 0 = a $
+$ \sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } ) $
+$ x _ { i } - x _ { i + 1 } + x _ { i + 2 } $
+$ \frac { 2 } { \sqrt { 3 } - 1 } \times \frac { \sqrt { 3 } + 1 } { \sqrt { 3 } + 1 } = \frac { 2 \left ( \sqrt { 3 } + 1 \right ) } { 3 - 1 } = \sqrt { 3 } + 1 $
+$ \int \left ( 2 ^ { x } - 3 e ^ { x } \right ) d x $
+$ \cos \alpha = \frac { a } { \sqrt { a ^ 2 + b ^ 2 + c ^ 2 } } $
+$ f ^ { ( i + k ) } ( 0 ) = f ^ { ( i ) } ( 0 ) f ^ { ( k ) } ( 0 ) $
+$ \sqrt { { \mu } _ { \mbox { k } } } $
+$ z _ 1 z _ 2 + z _ 1 z _ 3 + z _ 1 z _ 4 + z _ 2 z _ 3 $
+$ x ^ { \alpha } e ^ { - x } $
+$ 5 + 3 = 8 $
+$ ( 2 ) $
+$ { \mbox { y } - \sum { \phi } } $
+$ \frac { b ^ 2 c ^ 2 - 4 b ^ 3 d - 4 a c ^ 3 + 1 8 a b c d - 2 7 a ^ 2 d ^ 2 } { a ^ 4 } $
+$ E _ i E _ j = 0 $
+$ f ^ { ( n ) } $
+$ u \in S $
+$ x ^ { 1 6 } - x ^ { 1 5 } - x ^ { 1 4 } + x ^ 2 - 1 $
+$ \frac { 8 \pi r } { q ( r ) } $
+$ x + x ( a ) $
+$ \int \limits _ { 0 } ^ { 1 } \int \limits _ { 0 } ^ { 1 } { x ^ { 2 } } { y ^ { 2 } } d x d y $
+$ \lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 } $
+$ 1 0 1 1 \ 1 1 1 0 \ 1 1 1 0 \ 0 1 0 1 _ 2 $
+"$ ( s , t ) $"
+$ \frac { 1 } { 5 0 0 } $
+$ \frac 2 { \frac { 3 m - 2 n \times 9 ^ n - 9 ^ m } { 2 n - 1 } } $
+"$ f ( x , y ) = \frac { x } { y } + x y $"
+$ j ^ 2 = - 1 $
+$ ( e ^ 8 - 9 ) / 9 $
+$ \sum _ j \frac { x ^ j } { j ! } $
+$ y x = q x y $
+$ \lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 } $
+$ \sqrt { \mbox { A } } $
+$ E _ 1 = E _ 0 / ( 1 6 \pi ^ 2 ) $
+$ b = 2 ^ n $
+$ \left ( \mbox { b } \right ) $
+$ 2 \alpha + 3 \sqrt { \beta } $
+$ \left [ { E - \sqrt { \frac { i } { \sum { \mbox { e } } } } } \right ] $
+$ X _ 2 = - \frac { 4 9 } { 4 } $
+$ f _ 0 > f > f _ 1 $
+$ \sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } } $
+$ \sin n $
+$ \log _ 2 \left ( 2 ^ 5 \right ) = 5 $
+$ q = \lim _ { x \rightarrow \infty } g ( x ) $
+$ \cos \theta = \frac { x } { \sqrt { x ^ 2 + y ^ 2 } } $
+$ x ^ 2 \log x $
+$ E = E _ { k } + E _ { p } $
+$ \lim _ { x \rightarrow 0 } ( 1 + x ) ^ { \frac 1 x } $
+$ z = \cos { 2 x } $
+$ ( a b ) c = a ( b c ) $
+$ 1 + 1 = 2 $
+$ { { \mbox { T } } ^ { { \mbox { d } + \mbox { v } } } \left [ \mu \right ] } $
+$ \mbox { G j t } $
+$ a + \sqrt { \frac { b + c } { d + f } } $
+$ { \left [ \mbox { N } \right ] } ^ { { \mbox { C } - l } } $
+$ x _ x ^ x + y _ y ^ y + z _ z ^ z - x - y - z $
+"$ 3 , 1 4 1 5 $"
+$ h ( t ) = 0 $
+$ \frac { 1 } { T } \int _ { - T / 2 } ^ { T / 2 } P ( t ) e ^ { - i \frac { 2 n \pi } { T } } d t = c _ n ( P ) ( 1 ) $
+$ \frac { 5 } { x + 1 } + \frac { 5 } { { x ^ { 2 } } + x } $
+$ \pi $
+$ 6 5 \times 1 9 7 \leq 1 2 8 0 5 $
+$ [ \frac 2 3 x ^ { \frac 3 2 } ] _ 0 ^ 1 $
+$ x ^ 2 + y ^ 2 $
+$ S u p E \leq S u p F $
+$ G _ u = 2 M _ { u v } M _ v $
+$ \sin x + \sin y = 2 \sin ( \frac { x + y } { 2 } ) \cos ( \frac { x - y } { 2 } ) $
+$ \frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b } $
+$ 1 7 9 \times 1 8 8 = 3 3 6 5 2 $
+$ \sqrt { { \mbox { X } + 7 } } $
+$ \beta $
+$ \int \limits _ { a } ^ { b } f ( x ) d x = F ( b ) - F ( a ) $
+$ \mbox { n } $
+$ f _ { x } ( u ) = ( 2 - i ) { x ^ { 2 } } + ( 1 + i ) $
+$ 1 + y + y ^ 2 + y ^ 3 + y ^ 4 = 0 $
+$ \int _ { - d } ^ d d x ^ { 1 1 } = 2 \int _ 0 ^ d d x ^ { 1 1 } $
+"$ ( x a x ^ { - 1 } , x b x ^ { - 1 } ) $"
+"$ \frac { y _ { i + 1 } - y _ i } { x _ { i + 1 } - x _ i } = f ( x _ i , y _ i ) $"
+$ { - A } $
+$ [ \frac 2 3 ( 1 + \frac 9 4 x ) ^ { \frac 3 2 } \frac 4 9 ] _ 0 ^ 4 $
+$ \frac { { \lambda + i } } { { \mbox { C } } _ { L } } $
+$ s _ i = \sin \theta _ i $
+$ { x } = \sqrt { r ^ 2 + a ^ 2 } \sin \theta \cos \phi $
+$ X = 1 + 4 $
+$ \sin x - \sin y - \sin \left ( x - y \right ) $
+$ 1 0 3 \pm ( 6 7 \div 1 7 5 ) \times 1 5 3 $
+$ \mathrm { M } ^ n $
+$ \frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha } $
+$ n = k ^ 2 $
+$ \cos \alpha = \frac { a } { \sqrt { a ^ 2 + b ^ 2 + c ^ 2 } } $
+$ \frac { 1 } { a } F \left ( a x + b \right ) + C $
+$ \cos \theta = \frac { x } { \sqrt { x ^ 2 + y ^ 2 } } $
+$ \frac { 1 } { \sin \left ( x \right ) + 1 } $
+$ 1 - d = ( 1 - \frac { d ^ { ( m ) } } { m } ) ^ { m } $
+$ { \mbox { C } } ^ { { F + \mbox { m } } } $
+$ a ^ 2 + b ^ 2 = ( a + b i ) ( a - b i ) $
+$ { \mbox { a } \mbox { F } } $
+$ 3 y ^ 2 + 3 y + 1 $
+"$ p = d _ { i , j } ^ { ( n ) } $"
+$ x _ x ^ x + y _ y ^ y + z _ z ^ z - x - y - z $
+$ a _ p = p - n _ p $
+$ \frac { ( z - 2 ) } { ( 7 - z ) } $
+$ \frac { u _ 1 + u _ 2 + 1 } { u _ 1 u _ 2 } $
+$ ( ( 4 7 / 2 2 ) \times 1 0 9 ) \times ( 1 6 1 \times 6 ) = 2 2 4 9 4 6 . 2 7 $
+$ { - I } $
+$ \pi \int _ c ^ d \ { g ( y ) \ } ^ 2 d y $
+$ \mbox { P } $
+$ \int \limits _ { 0 } ^ { R } \frac { 2 x d x } { 1 + { x ^ { 2 } } } = \log ( 1 + { R ^ { 2 } } ) $
+$ 9 . 3 $
+$ [ \frac 2 3 x ^ { \frac 3 2 } ] _ 0 ^ 1 $
+$ x = r \cos \theta $
+$ { 2 . 9 g } $
+$ \frac { ( x + 3 ) ( x - 5 ) } { 3 ( x - 1 ) } \gt 0 $
+$ \mbox { o o } $
+$ g $
+$ \sqrt 2 ( \frac 1 { \sqrt 2 } \sin x + \frac 1 { \sqrt 2 } \cos x ) $
+$ c ^ 2 = a ^ 2 + b ^ 2 - 2 a b \cos C $
+$ z ^ a = x ^ { a + 3 } + i x ^ { a + 6 } $
+$ p $
+$ { o } ^ { \sum { A } } $
+$ x ( t ) = x _ 1 ( t ) + x _ 2 ( t ) $
+$ { ( a ) ^ { - 1 } } - 1 $
+$ { 8 . 5 + { \left ( r \right ) } ^ { \mbox { b } } } $
+$ 6 $
+$ 1 4 3 \pm ( 1 2 4 \times ( 3 1 - 3 5 ) ) \div 1 3 5 $
+$ \sqrt { \tan B } $
+$ 2 + 2 = x $
+$ 2 j + 1 $
+$ \frac { \sqrt { 1 + \cos ^ 2 \left ( \theta \right ) } } { 2 } = \cos \left ( 2 \theta \right ) $
+$ \phi _ { l r } ( r ) $
+$ { ( \frac { 1 + { x ^ { 2 } } } { 1 + { y ^ { 2 } } } ) ^ { t } } \leq { 2 ^ { | t | } } { ( 1 + { ( x - y ) ^ { 2 } } ) ^ { | t | } } $
+$ q _ j ( 0 ) \neq q _ k ( 0 ) $
+$ \int _ { \sqrt { \sigma } } ^ { { - b } } { - \mbox { A } } d { \mbox { M } } _ { \mbox { s } } $
+$ 3 $
+$ \int _ { \log 3 } ^ 0 \frac 1 { e ^ t + 1 } d t $
+$ \lim _ { x \rightarrow - \infty } \frac { f ( x ) } { x } = a $
+$ \lim \limits _ { x \rightarrow c } f ( x ) = L $
+$ { 3 \sum _ { { k \geq \beta } } { B } } $
+$ d _ { x z } $
+$ h = - r $
+$ \sum _ b k _ b $
+$ x + 2 + \sqrt { 3 } $
+$ 7 2 $
+$ \sum _ { { \mbox { N } \geq \mbox { m } } } { \mbox { Y } } $
+"$ v _ { \pm 1 , \pm 2 _ { } , \pm 3 } $"
+$ \int ( 2 ^ x - 3 e ^ x ) d x $
+$ u _ n = u _ p q ^ { n - p } $
+$ 1 4 1 + 1 6 0 = 3 0 1 $
+$ P ( x ) = \sum _ { i = 0 } ^ { n } a _ j x ^ j $
+$ a ^ 2 + b ^ 2 = ( a + b i ) ( a - b i ) $
+$ 1 . 1 + 0 . 0 1 i $
+$ 2 \alpha + 3 \sqrt { \beta } $
+$ a ^ { \frac 1 n } $
+$ \int _ { \log 3 } ^ 0 \frac 1 { e ^ t + 1 } d t $
+$ e _ { f _ { g _ h } } $
+$ ( 1 + \sqrt { 7 } ) $
+$ m . \frac { d ^ 2 z } { d t ^ 2 } = q . { E _ z } + q . ( v _ x . B _ y - v _ y . B _ x ) $
+$ x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a } $
+"$ c _ { 1 } , c _ { 2 } , \ldots , c _ { m } , c _ { m + 1 } $"
+$ { Y - \mbox { P } } $
+$ \log _ 2 \frac 1 2 + \log _ 4 \frac 2 4 $
+$ \left ( { \mbox { d } } ^ { F } \right ) $
+$ 1 4 0 - ( ( 1 7 5 + 1 6 ) / 1 6 8 ) \neq - 1 1 4 $
+$ - 2 ^ { \frac { 1 } { 4 } } \left ( \frac { 5 + \sqrt { 5 } } { 5 - \sqrt { 5 } } \right ) ^ { \frac { 1 } { 4 } } $
+$ t $
+$ \int _ a ^ b \frac { \sqrt x } 2 d x $
+$ \sum _ { n = 1 } ^ N \left ( - 1 \right ) ^ n \sin \left ( n x \right ) $
+$ { \mbox { g } \geq \frac { \mbox { b } } { \sum { \mbox { p } } } } $
+$ z ^ a = x ^ { 2 a - 1 } + i x ^ { 2 a } $
+$ \frac { 1 } { { n ^ { 2 } } } \leq \frac { 1 } { n - 1 } - \frac { 1 } { n } $
+$ 1 4 4 ^ 5 = 2 7 ^ 5 + 8 4 ^ 5 + 1 1 0 ^ 5 + 1 3 3 ^ 5 $
+$ 1 . 3 $
+$ 3 0 \times 2 9 x ^ { 2 8 } $
+$ { { - G } + \sum { \mbox { m } } } $
+$ \lim _ { t \rightarrow t _ 0 } y ( t ) = + \infty $
+$ x = \sin ( y ) $
+$ { \mbox { F } + \alpha } $
+"$ e _ 1 , e _ 2 , \ldots , e _ n $"
+$ \frac { l + m } { \sqrt { 1 + \alpha ^ 2 } } $
+$ \sqrt { \frac { 1 } { n } \sum _ { k = 1 } ^ { n } { ( a _ { k } ) ^ { 2 } } } \geq \frac { 1 } { n } \sum _ { k = 1 } ^ { n } a _ { k } $
+$ 7 $
+$ \frac { \mbox { l } } { \beta } $
+$ [ c _ 1 ] + [ c _ 2 ] = [ c _ 1 + c _ 2 ] $
+$ | \int \limits _ { a } ^ { b } f ( x ) d x | \leq \int \limits _ { a } ^ { b } | f ( x ) | d x $
+$ T _ { \mathrm { m o y } } = 1 0 $
+$ 1 7 \div 6 6 = 0 . 2 6 $
+$ - \frac { 9 9 2 } { 9 9 } $
+$ y = - b ^ n + c ^ n - d ^ n $
+$ \cos ^ 2 \theta $
+$ \mbox { z } $
+$ c ( s ) $
+$ { ( a - b ) ^ { 2 } } = { a ^ { 2 } } - 2 a b + { b ^ { 2 } } $
+"$ g ( 2 , 3 , 4 ) = 3 { 4 ^ { - 3 } } $"
+$ { - k } $
+$ \log 5 $
+$ { { - \mbox { w } } + 4 . 6 } $
+$ \frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } $
+$ \pm \frac { 0 . 0 5 } { 5 0 } = \pm 0 . 0 0 1 $
+$ \log _ 2 \left ( 2 ^ 5 \right ) = 5 $
+$ \sqrt { - n } $
+$ ( 4 7 \times 1 1 1 ) + 8 5 \geq 5 3 0 1 $
+$ \sum _ { { h \gt \pi } } { { I - q } } $
+$ 7 \times 5 = 7 + 7 + 7 + 7 + 7 = 3 5 $
+$ 1 6 8 - ( 1 3 4 \div 1 6 5 ) = 1 6 7 . 1 9 $
+$ \frac { { T _ { 1 } ^ { 2 } } } { { T _ { 2 } ^ { 2 } } } = \frac { { a _ { 1 } ^ { 3 } } } { { a _ { 2 } ^ { 3 } } } $
+$ y ^ { p + 1 } + z ^ { p + 1 } = 1 $
+$ 9 . 4 3 $
+$ \int \sum _ { { d \geq \int C d X } } { { \cdots + { { a } ^ { h } 1 } } } d { q } _ { { \mbox { r } } _ { \mbox { E } } } $
+$ m n - 1 $
+"$ y _ 7 , y _ 8 , y _ 9 , y _ { 1 0 } $"
+$ \gamma _ y ( 0 ) = y _ 1 $
+$ b = c \sin B = c \cos A $
+$ 2 $
+$ x + y = z $
+$ \lim _ { y \to \infty } y \sin ( \frac { c } { y } ) = c $
+$ r _ 2 - r _ 1 = R $
+$ y ^ 4 = ( x - b _ 1 ) ^ 2 ( x - b _ 2 ) ^ 2 ( x - b _ 3 ) ^ 3 $
+$ \alpha ( t ) $
+$ b - a $
+$ a ^ { b ^ { c ^ d } } $
+$ m _ { n } ( g _ { \alpha } ) = m _ { n } ( f ) $
+$ \sin x = \sin ( x + 2 \pi k ) $
+"$ ( b _ { i , q _ i } ) $"
+$ \gamma ^ { - 1 } $
+$ 1 2 5 + 1 6 \neq 2 5 4 $
+$ 3 { a ^ { 2 } } { b ^ { 3 } } + 5 { a ^ { 3 } } { b ^ { 2 } } - \frac { { a ^ { 5 } } { b ^ { 8 } } } { 2 } $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } } $
+$ c _ { x } c _ { x + 1 } $
+$ | f ( x ) | \leq p ( x ) $
+$ { { \mbox { f } + H } \neq { o - \mbox { t } } } $
+$ ( X - 1 ) \times c $
+$ { 3 ^ { x } } - { 2 ^ { x } } $
+$ 2 i k \pi $
+$ \lim _ { n \to \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1 $
+$ y = a S ( t ) = a \int _ 0 ^ { t } \sin ( \frac { 1 } { 2 } \pi s ^ 2 ) d s $
+$ \frac { 3 + 9 + 7 + 3 + 6 + 1 0 + 4 } { 7 } = 6 $
+$ \sqrt [ 5 ] { 5 5 } $
+$ 5 0 ! \cdot n = 4 8 ! $
+$ a = b \cos C + c \cos B $
+$ q = \sqrt { ( \frac { B - A } { C } ) ^ 2 + 1 } + \frac { B - A } { C } $
+$ ( 1 + t ) ^ n $
+$ \frac { 7 } { 1 0 } $
+$ \log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6 $
+$ \left ( { e A } \right ) $
+$ E ( s ^ 2 _ { n } ) = E ( X ) ^ 2 + V ( X ) - E ( X ) ^ 2 - \frac { 1 } { n } V ( X ) = \frac { n - 1 } { n } V ( X ) $
+$ \lim _ { k \rightarrow \infty } f ( k ) = 1 $
+$ \sum _ m f \left ( m + 3 \right ) $
+$ \log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6 $
+$ \sqrt 2 ( \frac 1 { \sqrt 2 } \sin x + \frac 1 { \sqrt 2 } \cos x ) $
+$ { \mbox { z } } _ { \mbox { N } } $
+$ x + y = 3 $
+$ x ^ 5 + c x ^ 3 + d x ^ 2 + e x + f $
+$ { l - 5 } $
+$ \frac { 4 } { 3 } \pi r ^ 3 $
+$ r = \sqrt { ( x ^ 8 ) ^ 2 + ( x ^ 9 ) ^ 2 + ( x ^ { 1 0 } ) ^ 2 } $
+$ 8 = 2 + 2 + 1 + 1 + 1 + 1 $
+$ a + b $
+$ 9 . 8 $
+$ v _ { c } = v _ { c - 1 } ( \frac { r - c } { c } ) $
+$ \frac { x ^ 2 } { x ^ 2 } \frac { x + 1 } { x + 2 } $
+"$ X _ 1 , X _ 2 , \ldots $"
+$ z = | z | \mathrm { e } ^ { i \theta } $
+$ v = \frac { d s } { d t } $
+$ \cos x $
+$ \frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta } $
+$ 1 + \frac { 1 } { z } \sin z \cos ( z + 2 \alpha _ { 1 } ) = 2 \int _ { 0 } ^ { 1 } d x \cos ^ { 2 } ( z x + \alpha _ { 1 } ) $
+$ y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w } $
+$ ( z ^ { \frac n 2 } + y ^ { \frac n 2 } ) ( z ^ { \frac n 2 } - y ^ { \frac n 2 } ) = x $
+$ 3 0 \times 2 9 x ^ { 2 8 } $
+$ 7 _ \alpha 7 _ \alpha $
+$ \frac { 9 1 } { 4 8 } $
+$ { { - E } - \mbox { c } \left ( \mbox { x } \right ) } $
+$ { x ^ { 2 } } = y - 1 $
+$ { ( a ) ^ { - 1 } } - 1 $
+$ \frac { \beta + \gamma } { \theta } $
+"$ p g c d ( a , b ) = a x _ 0 + b y _ 0 $"
+$ \int _ { \log 3 } ^ 0 \frac 1 { e ^ t + 1 } d t $
+$ { + \frac { \pi } { 3 } } $
+$ | \frac { \cos ( x ) - 1 } { x ^ 2 } | = | \frac { \cos ( | x | ) - 1 } { | x | ^ 2 } | $
+$ 5 = ( \pm 2 ) ^ 2 + ( \pm 1 ) ^ 2 $
+$ \alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } } $
+$ a = \sqrt { b ^ 2 - c ^ 2 \sin ^ 2 \beta } + c \cos \beta $
+$ \cos ( - x ) = \cos ( x ) $
+$ | f ( \frac { p } { q } ) | $
+$ ( ( 9 5 - 8 6 ) \times 3 5 ) \times 1 9 7 \neq - 3 7 8 7 9 $
+$ \int _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ 3 + 1 4 } } d z $
+$ 1 8 4 + 1 7 6 + 1 3 - 9 8 \leq 2 7 5 $
+$ v $
+$ \frac { { \Delta + \sum { \mbox { S } } } } { \sqrt { S } } $
+$ x _ { 1 } + x _ { 2 } = x _ { 3 } $
+$ \frac { \frac { \frac { x _ 4 } { x _ 3 } } { x _ 2 } } { x _ 1 } $
+"$ ( - \frac { 1 } { 3 } , - \frac { 1 } { 3 } , - \frac { 1 } { 3 } , - \frac { 1 } { 3 } , - \frac { 1 } { 3 } , \frac { 4 } { 3 } , \frac { 2 } { 3 } , \frac { 2 } { 3 } ) $"
+$ \lim _ { y \to \infty } y \sin ( \frac { c } { y } ) = c $
+$ x ^ 2 + x + 1 $
+$ { { - u } - \sqrt { e } } $
+$ x ^ \prime = x \cos \theta + y \sin \theta $
+$ ( \sin x ) ^ { - 1 } $
+$ \frac { \frac { \frac { x _ 4 } { x _ 3 } } { x _ 2 } } { x _ 1 } $
+$ f = d ^ 5 a _ 4 + 5 b d ^ 4 a _ 5 = - 3 2 $
+$ ( 7 4 - 1 1 5 - 0 - 1 7 1 ) \times ( ( 7 2 / 1 9 8 ) + 3 7 ) \leq 4 8 5 7 $
+$ \lim F _ { x _ n } ( a ) = F _ x ( a ) $
+$ \alpha _ { m i n } $
+$ k \lt 1 $
+$ \tan z = \frac { \sin z } { \cos z } $
+$ 5 $
+$ \sqrt { \frac { 2 } { 9 - 3 \sqrt { 5 } } } $
+$ \sin ^ 2 \sigma $
+$ \sqrt 2 ( \frac 1 { \sqrt 2 } \sin x + \frac 1 { \sqrt 2 } \cos x ) $
+$ \frac { 1 } { \sin \left ( x \right ) + 1 } $
+$ f ( x ) = \frac { \infty } { \infty } $
+$ \frac { 4 } { 3 } \pi r ^ 3 $
+$ \frac { b ^ 2 c ^ 2 - 4 b ^ 3 d - 4 a c ^ 3 + 1 8 a b c d - 2 7 a ^ 2 d ^ 2 } { a ^ 4 } $
+$ j $
+$ { \cdots + { l } ^ { \beta } } $
+$ x = r \cos \theta $
+$ \frac { 3 } { 8 } $
+$ A _ { 2 k } = \frac { 2 R A _ k } { 2 R + \sqrt { 4 R ^ 2 + A ^ 2 _ k } } $
+$ X _ { n + 2 } $
+$ - \frac { 1 } { 6 x ^ 6 } + c $
+$ \cos \mbox { m } $
+$ x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 } $
+$ \frac { 1 } { a } F \left ( a x + b \right ) + C $
+$ x = - a $
+$ \lim _ { x \rightarrow 0 } \frac { \sin ( x ) } { x } = 1 $
+$ d t = \sqrt { \frac { l } { 2 g } } { \frac { d \theta } { \sqrt { \cos \theta - \cos \theta _ 0 } } } $
+$ \frac { m } { s } \times \frac { n } { s } $
+$ \cos ^ 2 \theta _ 1 $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } } $
+$ x = \sum _ { i } x _ { i } $
+$ c ^ 2 = a ^ 2 + b ^ 2 - 2 a b \cos C $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } } $
+$ 2 l o g ( x - 3 ) = l o g ( 5 - x ) $
+$ \int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2 $
+$ \mbox { v } $
+$ \frac { b } { { a ^ { 2 } } - a } - \frac { b } { a - 1 } $
+"$ ( { d _ 1 } , { d _ 2 } , { d _ 3 } , { d _ 4 } ) $"
+$ \mbox { k } $
+$ 8 \sin ( \pi / 1 4 ) \sin ( 3 \pi / 1 4 ) \cos ( \pi / 7 ) = 1 $
+$ 1 0 ^ { - 2 2 } $
+$ \tan \left ( \frac { \pi } { 4 } \right ) = 1 $
+$ { x ^ { 2 } } - x - 6 \lt 0 $
+$ e _ { f _ { g _ h } } $
+"$ \Bigg ( a \frac { 1 - t ^ 2 } { 1 + t ^ 2 } , \frac { 2 b t } { 1 + t ^ 2 } \Bigg ) $"
+$ x ^ 5 - x + 1 = 0 $
+$ e = m { c ^ { 2 } } $
+$ \frac { V } { T } = \frac { n R } { p } $
+$ z _ 1 ^ 2 + 1 ^ z - z _ 2 ^ 2 + 2 ^ z $
+$ \tan M = \sin M / \cos M $
+$ \int \frac { 1 } { h ( y ) } d y = \int g ( x ) d x $
+$ \int \limits _ { 0 } ^ { + \infty } { x ^ { n } } { e ^ { - x } } d x = n ! $
+$ \frac { 2 } { 3 } h $
+$ w = \tan \beta $
+$ { - \left [ { X - C } \right ] } $
+"$ F ( x , y , z ) = G ( x , y ) + H ( y , z ) + 2 1 $"
+$ 0 . 0 8 7 8 $
+$ 1 + 1 = 2 $
+$ f ( t ) g ( t ) $
+$ \frac { 1 } { a } F \left ( a x + b \right ) + C $
+$ \int d x ^ 1 d y ^ 1 $
+"$ \gamma = 1 , 4 $"
+$ \frac { 1 } { 2 } ( - 1 + 1 ) + \frac { 1 } { 2 } ( 0 + 0 ) $
+$ a + \frac { \sqrt { b + c } } { 2 } $
+$ a _ { n } = a _ { 1 } \cdot { q ^ { n - 1 } } $
+$ x ^ 2 + y ^ 2 = z ^ 2 $
+$ \int \limits _ { 0 } ^ { \infty } \frac { \sin ^ { 2 } x } { { x ^ { 2 } } } d x = \frac { \pi } { 2 } $
+$ u \times v $
+$ e - 1 $
+$ r _ 1 - r _ 2 $
+$ m _ { i j } = 1 $
+$ ( { y ^ { 4 } } - 1 ) / ( { y ^ { 2 } } - 1 ) $
+$ - y _ c \leq y \leq y _ c $
+$ \sum _ { n = 0 } ^ { \infty } f _ { n } ( x ) $
+$ \forall x \in M $
+$ x ^ i e _ i = \sum _ i x ^ i e _ i $
+$ a _ { n } = a _ { 1 } + ( n - 1 ) d $
+$ { \mbox { x m x } } _ { \mbox { z } } $
+$ A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b $
+$ \sqrt { { x ^ { 2 } } } = | x | $
+$ 5 0 ! \cdot n = 4 8 ! $
+$ \sigma _ p = \sqrt { \sigma _ p ^ 2 } $
+$ a ^ x a ^ y = a ^ { x + y } $
+$ a x + b y + c = 0 $
+$ \mbox { e } $
+$ x = 1 $
+$ \int \limits _ { 0 } ^ { \infty } \sqrt { x } { e ^ { - x } } d x = \frac { 1 } { 2 } \sqrt { \pi } $
+$ 1 7 8 + 6 1 \neq 5 6 5 $
+$ 1 \times 9 7 \geq 9 6 $
+$ \sqrt { C _ n } $
+$ x _ { 1 } = \frac { ( 1 - \frac { 2 } { \sqrt { N - 1 } } ) N } { L } $
+$ \frac { T _ H ^ { \frac { f } { 2 } } V _ 2 } { T _ H ^ { \frac { f } { 2 } } V _ 1 } = \frac { T _ C ^ { \frac { f } { 2 } } V _ 3 } { T _ C ^ { \frac { f } { 2 } } V _ 4 } $
+$ e ^ { m x } y = \frac { n } { m } e ^ { m x } + C $
+$ \cos \left ( 0 \right ) = 1 $
+$ \sin x - \sin y - \sin ( x - y ) $
+$ e = \sqrt { \frac { a ^ 2 - b ^ 2 } { a ^ 2 } } $
+$ x ^ 2 + y ^ 2 = l _ 1 ^ 2 + l _ 2 ^ 2 + 2 l _ 1 l _ 2 c _ 2 $
+$ \sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n } $
+$ x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 } $
+$ { - i } $
+"$ ( \frac { 1 } { 1 8 } , \frac { 1 } { 1 8 } ) $"
+$ \sum a _ n ( c _ n + ( - 1 ) ^ n c _ { - n } ) $
+$ 1 2 - { x ^ { 2 } } $
+$ \log _ { 2 } 8 = 3 $
+$ x _ f = x _ i + { v _ i } { t } + \frac { 1 } { 2 } { a t ^ 2 } $
+$ m \frac { d ^ 2 x } { d t ^ 2 } = f ( x ) $
+$ a _ 3 = \frac { a _ 1 } { 4 } + \frac { a _ 2 } { 2 } - \frac { 1 } { 8 } $
+$ \frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } $
+$ ( 8 3 + 8 4 ) \div ( 1 3 8 + 1 8 3 + 9 9 ) \neq 0 $
+$ 4 1 $
+$ \theta + \frac { \pi } { 2 } $
+"$ ( e _ 1 , \ldots , e _ n ) $"
+$ \mu $
+$ \sin ( a + b ) $
+$ u \neq 0 $
+$ \int x + 5 d x $
+$ f ^ { \prime } \left ( x \right ) = n \left ( 1 + x \right ) ^ { n - 1 } - n $
+$ i $
+$ x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 } $
+"$ ( a _ { i , j } ) $"
+$ \mbox { i } $
+$ \frac { 1 } { 2 } h $
+$ \frac { x } { a + \frac { x } { b - \frac { x } { c } } } $
+$ q = w + x i + y j + z k $
+$ 2 \log ( x - 3 ) = \log ( 5 - x ) $
+$ \sin ^ 2 ( x ) + \cos ^ 2 ( x ) = 1 $
+$ r $
+$ \sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } } $
+$ 2 0 $
+$ S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ i - ( n - 2 ) \pi \Bigg ) r ^ 2 $
+$ \mbox { i z a } $
+$ \lim _ { y \to \infty } y \sin ( \frac { c } { y } ) = c $
+$ a + b + c + d + e $
+$ m _ 2 = 1 $
+$ 7 . 3 $
+$ \lim _ { t \rightarrow \infty } ( 1 + \frac 1 t ) ^ t = e $
+$ a = \frac { 1 } { 0 } $
+$ \int \alpha d \Delta $
+$ 1 4 8 \times 1 3 3 \leq 1 9 6 8 4 $
+$ { { - \mbox { M } } + { a } ^ { { C + \mbox { o } } } } $
+$ \alpha _ { 1 1 } $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } } $
+$ 2 s p _ { z } $
+$ A = \sqrt { a + \frac 1 { \sqrt { a + \frac 1 { \sqrt a } } } } + \sqrt b $
+$ { \sqrt { i } } ^ { E } $
+$ x _ { 1 } + x _ { 2 } = x _ { 3 } $
+$ \cos ^ n \theta $
+$ \sqrt { x \times y } = \sqrt { x } \times \sqrt { y } $
+$ \log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6 $
+$ \tan \left ( \frac { \pi } { 4 } \right ) = 1 $
+$ \alpha ^ { i } - 1 ^ { \alpha ^ { k } } - 1 ^ { \alpha ^ { k } } - 1 $
+$ s n = 1 $
+$ a _ { m _ 1 } = a _ { 2 { m _ 1 } } $
+$ w ^ 2 = - 1 + w $
+$ a _ 1 ( y ) ^ 2 + c _ 1 ( y ) ^ 2 $
+$ \sum _ { i = 2 n + 3 m } ^ { 1 0 } i x $
+$ x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 = X $
+$ A _ { 2 k } = \frac { 2 R A _ k } { 2 R + \sqrt { 4 R ^ 2 + A ^ 2 _ k } } $
+$ { \mbox { l } o } $
+$ \frac { 2 } { \sqrt { 3 } } - \frac { 1 } { 2 \sqrt { 3 } } = \frac { 1 } { 2 \sqrt { 3 } } - ( - \frac { 1 } { \sqrt { 3 } } ) = \frac { \sqrt { 3 } } { 2 } $
+$ \frac { ( - 1 ) ^ n } { \sqrt { n } } $
+$ { ( 1 2 - x ) ^ { 2 } } $
+$ ( \frac { 1 } { { m ^ { 2 } } } - \frac { 3 m } { n } + \frac { 2 } { m n } ) $
+$ \lim _ { n \to \infty } \frac { { n ^ { 2 } } + 3 n } { 2 { n ^ { 2 } } + 1 } = \frac { 1 } { 2 } $
+$ \int { - \cos \phi } d \phi $
+$ \frac { 1 } { r ^ 2 } = \frac { 1 } { ( R - m ) ^ 2 } + \frac { 1 } { ( R + m ) ^ 2 } $
+$ 2 ^ { 6 7 } - 1 = 1 9 3 7 0 7 7 2 1 \times 7 6 1 8 3 8 2 5 7 2 8 7 $
+$ f ( z ) = x ^ 2 - y ^ 2 + 2 i x y $
+$ \frac { \sin \theta + \cos \theta + \tan \theta } { x + y + z } $
+$ 1 6 7 \pm 1 3 7 + 1 5 9 $
+$ \frac { \mbox { V } } { \mbox { G } } $
+$ [ b ^ x \ { ( \frac a b ) ^ x + 1 \ } ] ^ { \frac 1 x } $
+$ \sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } } $
+$ f ( a b ^ { - 1 } ) = f ( c d ^ { - 1 } ) $
+$ 9 . 9 $
+"$ \alpha _ { b , c } $"
+$ 4 5 / 1 1 1 \geq 0 $
+$ e _ 1 ^ 2 + e _ 2 ^ 3 + e _ 3 ^ 4 + e _ 4 ^ 5 $
+$ \sum _ { j = 1 } ^ m a _ j e _ j $
+"$ h ( f , \alpha ) $"
+$ f ( x h x ^ { - 1 } ) = f ( x ) f ( x ^ { - 1 } ) $
+$ 1 0 ^ n - k $
+$ \frac { 9 - 4 \sqrt { 3 } } { 3 3 } $
+$ \log $
+$ \left ( \sqrt { H } \right ) $
+$ { ( 1 + x ) ^ { n } } = \sum _ { k = 0 } ^ { \infty } n k { x ^ { k } } $
+$ n ! - 1 $
+$ \lim _ { n \to \infty } | x _ { n + 1 } - x _ { n } | $
+$ \int _ { 0 } ^ { \infty } \frac { z } { \sqrt { z ^ 3 + 1 4 } } d z $
+$ { \cdots + \gamma } $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt { 4 } } } } $
+$ v _ s ( t ) = \frac { d x _ s ( t ) } { d t } $
+$ f ( x _ 0 ) = Y $
+$ \sqrt { a } + \sqrt { b } $
+$ \left ( \left [ { z 4 } \right ] \right ) $
+$ I _ A \leq I _ B \leq I _ C $
+$ w ^ 5 = 1 - w $
+$ 7 . 0 $
+$ m _ { k } = p _ { k } - p _ { k - 1 } $
+$ \frac { 2 } { \frac { 1 } { x } + \frac { 1 } { y } } $
+$ 1 4 + 6 1 = 7 5 $
+$ ( 4 \times 1 5 7 ) \times 6 5 \neq 2 4 5 3 1 $
+$ \cos ( \frac \pi 2 + \alpha ) = - \sin \alpha $
+$ \left ( \sin \left ( x \right ) ^ 2 + 3 \cos \left ( x \right ) ^ 2 \right ) ^ 4 $
+$ \frac { ( n + \alpha ) ( n + \beta ) ( 2 n + 2 + \alpha + \beta ) } { ( n + 1 ) ( n + 1 + \alpha + \beta ) ( 2 n + \alpha + \beta ) } $
+$ { \mbox { f } } _ { \mbox { c } } $
+$ r = \sqrt { x _ 1 ^ 2 + x _ 2 ^ 2 + x _ 3 ^ 2 + x _ 4 ^ 2 } $
+$ a x ^ 3 + b x ^ 2 + c x + d $
+$ x ^ 3 - 1 = 0 $
+$ \sin 3 2 \pi $
+$ P ( x ) = \sum _ { i = 0 } ^ { n } a _ j x ^ j $
+$ a _ { i i } = \frac { 1 } { 2 } ( \frac { ( m ^ { i } ) ^ 2 } { 6 } + m ^ { i } ) $
+$ \sin x - \sin y - \sin \left ( x - y \right ) $
+$ 4 + 3 $
+$ \sin x - \sin y - \sin \left ( x - y \right ) $
+$ S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ i - ( n - 2 ) \pi \Bigg ) r ^ 2 $
+$ ( a _ i ) $
+$ { k } ^ { \mbox { X } } $
+$ \sqrt { 1 - x } $
+$ y = \frac { x \prime \sin \theta + y \prime \sin ( w \prime + \theta ) } { \sin w } $
+$ z = e ^ { i \alpha } $
+$ \sum _ { { g = z } } ^ { \sqrt { \mbox { j } } } { \mbox { A } } $
+$ X ^ 2 - 2 X - 1 = 0 $
+$ A = \sqrt { a + \frac { 1 } { \sqrt { a + \frac { 1 } { \sqrt { a } } } } } + \sqrt { b } $
+$ e ^ { i \pi } + 1 = 0 $
+$ \int _ { \log 3 } ^ 0 \frac 1 { e ^ t + 1 } d t $
+$ d x ^ 2 _ { 2 } = d x ^ 2 _ { q + 1 } + d x ^ 2 _ { q + 2 } $
+$ 1 + \log _ k ( \frac { k + 1 } { 2 } ) $
+$ a _ { i } = a _ { i + n } $
+$ { \cdots + { \mbox { q } } _ { L } } $
+$ \int e ^ { - z ^ 2 } d z = \mbox { e r f } \left ( z \right ) $
+$ [ \frac 2 3 x ^ { \frac 3 2 } ] _ 0 ^ 1 $
+"$ ( x , y ) $"
+$ { \mbox { z } b } $
+$ 2 ^ \frac { p } { p + 1 } $
+$ y _ 0 y _ 1 = y _ 2 y _ 3 $
+$ ( 7 3 ) ( 3 7 ) ( 7 7 ) $
+$ F = m g $
+"$ g ( x , y ) = \sqrt [ 3 ] { x - y } + \sqrt { | x + y | } $"
+$ { ( 9 - { a ^ { 5 } } ) ^ { 2 } } + { ( 6 - { b ^ { 9 } } ) ^ { 2 } } $
+$ V = a \cdot b \cdot c $
+$ \frac { a } { b } = c $
+$ \int ( B + F ) $
+$ k _ { 1 } = k _ { 2 } $
+$ T _ { n } ( T _ { m } ( X ) ) = T _ { m n } ( X ) $
+$ \sqrt { \frac { 2 z ^ 3 } { \sqrt { \frac { 3 z ^ 2 } { \sqrt { 4 z } } } } } $
+$ \sin ^ 2 ( x ) = 1 - \cos ^ 2 ( x ) $
+$ 1 2 3 4 + 5 6 7 8 \gt 9 0 $
+$ k ^ 3 + 1 4 k ^ 2 - 1 3 2 k + 1 7 8 9 $
+$ { \sin } ^ { r } \pi $
+$ ( a ^ 2 + b ^ 2 ) ( c ^ 2 + d ^ 2 ) \geq ( a c + b d ) ^ 2 $
+$ n = k + 2 t $
+$ z ^ 2 - 2 z - 1 = 0 $
+$ n ( n + 2 \alpha ) $
+$ 3 0 \times 2 9 x ^ { 2 8 } $
+$ { ( 1 2 - x ) ^ { 2 } } $
+$ x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 = X $
+$ 1 - \cos ^ { 2 } x = ( 1 - \cos x ) ( 1 + \cos x ) $
+$ { ( 1 2 - x ) ^ { 2 } } $
+$ { ( 1 2 - x ) ^ { 2 } } $
+$ E _ 0 $
+$ { \sum { \mbox { B } } \neq \sum { 2 } } $
+"$ h ( x , y ) = { x ^ { y + \frac { 1 } { y } } } $"
+$ \sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z } $
+$ \mbox { j } \left ( \sum { i } \right ) $
+$ \sqrt { - 4 } $
+$ 1 + 1 $
+$ \lim _ { x \rightarrow - \infty } \frac { f ( x ) } { x } = \pm \infty $
+$ \frac { { { - \mbox { h } } - { \mbox { e } } _ { \mbox { C } } } } { \sum _ { { 6 \gt S } } { { \sin } ^ { G } \mbox { k } } } $
+$ \frac { 1 1 } { 3 } \sqrt { 3 } $
+$ { - \int \mbox { S } d w } $
+$ \frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta } $
+"$ 0 = ( 0 , 0 , \ldots , 0 ) $"
+$ e ^ v = c ( 1 ) $
+$ 1 4 5 - ( ( 1 2 - 1 2 8 ) \div ( 1 1 2 \div 3 7 ) ) = 1 8 3 . 3 2 $
+$ a + \sqrt { \frac { b + c } { d + f } } $
+$ \sum _ { { u \gt \mbox { v } } } { { { - \sigma } + \left ( \mbox { a } \right ) } } $
+$ \beta _ n + i \gamma _ n $
+$ E x t $
+$ 5 + 2 + 4 + 4 + 3 = 1 8 $
+$ a ^ x a ^ y = a ^ { x + y } $
+$ \mbox { u } $
+$ \tan ( 3 x ) = \frac { 3 \tan ( x ) - \tan ^ { 3 } ( x ) } { 1 - 3 \tan ^ { 2 } ( x ) } $
+$ \frac { 2 s ^ 2 } { 5 t } x ^ 5 + s x ^ 4 + t x ^ 3 + \frac { t ^ 2 } { 2 s } x ^ 2 + \frac { t ^ 3 } { 8 s ^ 2 } x + a _ 0 = 0 $
+$ x _ x ^ x + y _ y ^ y + z _ z ^ z - x - y - z $
+$ \sqrt [ n ] { \frac { n + 1 } { { ( n - 1 ) ^ { 2 } } } } $
+$ a + b + c = 0 $
+$ 7 \times 7 $
+$ y ^ 4 = ( x - b _ 1 ) ^ 3 ( x - b _ 2 ) ^ 3 $
+$ s _ { n } = \sum _ { k = 1 } ^ { n } a _ { k } $
+$ \mbox { o } $
+$ { \alpha \neq { v \alpha } } $
+$ { \mbox { R } 1 } $
+$ f ( z ) $
+$ \frac { - b + \sqrt { b ^ 2 - 4 a c } } { 2 a } $
+$ \frac { b ^ 2 c ^ 2 - 4 b ^ 3 d - 4 a c ^ 3 + 1 8 a b c d - 2 7 a ^ 2 d ^ 2 } { a ^ 4 } $
+$ 2 + 2 = 4 $
+$ \sqrt { x y z } = \sqrt { x } \sqrt { y } \sqrt { z } $
+$ { ( \frac { 1 + { x ^ { 2 } } } { 1 + { y ^ { 2 } } } ) ^ { t } } \leq { 2 ^ { | t | } } { ( 1 + { ( x - y ) ^ { 2 } } ) ^ { | t | } } $
+$ x ^ { 3 } - x ^ { 2 } \sqrt { 7 } + x + \frac { 1 } { \sqrt { 7 } } $
+$ \sqrt { x } = 1 { 0 ^ { ( l o g x ) / 2 } } $
+$ q = \sqrt { ( \frac { B - A } { C } ) ^ 2 + 1 } + \frac { B - A } { C } $
+$ x _ { 1 } - x _ { 2 } + y _ { 1 } - y _ { 2 } + z _ { 1 } - z _ { 2 } $
+$ x ^ 4 - 4 x ^ 3 - 1 4 x ^ 2 - 4 x + 1 $
+$ \int e ^ { x ^ 2 } x ^ 3 d x $
+$ 5 5 $
+$ \sum a _ { n } $
+$ 6 . 7 $
+$ u ( x - x _ 0 ) + v ( y - y _ 0 ) = 0 $
+$ x $
+$ \lim _ { n \to \infty } x _ { n } = L $
+$ a + c = b $
+"$ x , y , z $"
+$ \left [ \sqrt { \mbox { f } } \right ] $
+$ \sqrt { \mbox { z } } $
+$ \lim _ { y \to \infty } y \sin ( \frac { c } { y } ) = c $
+$ g ( b ) - g ( a ) = b - a $
+$ 1 $
+$ \sum _ { n = 1 } ^ N \left ( - 1 \right ) ^ n \sin \left ( n x \right ) $
+$ \int e ^ { x ^ 2 } x ^ 3 d x $
+$ 2 0 x - 8 y = 2 0 $
+$ \lim _ { x \rightarrow \infty } \int _ 0 ^ x e ^ { - y ^ 2 } d y = \frac { \sqrt \pi } 2 $
+$ \frac { { T _ { 1 } ^ { 2 } } } { { T _ { 2 } ^ { 2 } } } = \frac { { a _ { 1 } ^ { 3 } } } { { a _ { 2 } ^ { 3 } } } $
+$ V _ r = V _ i $
+$ F _ y = F _ { a y a ^ { - 1 } } = a F _ y a ^ { - 1 } $
+$ 3 x - 5 \lt - 2 $
+$ \log _ { 2 } 8 + \log _ { 3 } 9 + \log _ { 4 } 1 6 $
+$ \frac { { 3 ^ { 2 } } } { x } = \sqrt { 1 6 } $
+$ \sqrt { b ^ { 2 } - 4 a c } $
+$ \frac { \sqrt { 9 9 { x ^ { 7 } } } } { 1 1 { x ^ { 3 } } } $
+$ \sin x - \sin y - \sin \left ( x - y \right ) $
+$ y ( \alpha ) = \alpha \theta ( \alpha ) $
+$ 1 8 9 \pm 6 6 + ( ( 1 6 9 \div 4 9 ) - ( 1 7 \div 7 6 ) ) $
+$ x ^ { - 1 } \leq x ^ { - 1 } $
+$ \frac { 1 } { - 1 } = \frac { - 1 } { 1 } $
+$ | a - b | \leq | a - c | + | c - b | $
+$ { b } ^ { m } $
+$ B \rightarrow \tan \theta $
+$ { { \mbox { o } } _ { \sigma } \frac { { \mbox { e } + i } } { \mbox { C } } } $
+$ 2 x = f + y $
+$ y = r \sin \theta $
+$ 1 + 2 $
+$ { \sqrt { 2 } - 1 } $
+$ v = a \cdot b \cdot c $
+$ b = - c = \sin \alpha $
+$ 2 5 - 8 2 \leq - 5 6 $
+$ 7 x ^ { 7 - 1 } + 4 x ^ { 4 - 1 } + 1 x ^ { 1 - 1 } $
+$ \sqrt { 1 + \sqrt { 2 + \sqrt { 3 + \sqrt 4 } } } $
+$ \sin \theta = \frac { y } { \sqrt { x ^ 2 + y ^ 2 } } $
+$ 7 ^ { 7 ^ { 7 } } $
+$ \frac { \sin B + \sin C } { \cos B + \cos C } $
+$ \frac { f ^ { ' } ( c ) } { g ^ { ' } ( c ) } = \frac { f ( b ) - f ( a ) } { g ( b ) - g ( a ) } $
+$ \frac { a } { c } $
+$ a _ { n } = a _ { 1 } \cdot { q ^ { n - 1 } } $
+$ i _ 2 = i _ 1 + i _ s $
+$ f ( x ) = - 4 $
+$ x _ { i } - x _ { i + 1 } + x _ { i + 2 } $
+$ \sqrt { { \lambda - \mbox { h } } } $
+$ ( y + 1 ) ^ 2 = y ^ 2 + 2 y + 1 $
+$ z _ 1 ^ 2 + 1 ^ z - z _ 2 ^ 2 + 2 ^ z $
+$ \frac { 1 } { 5 } + \frac { 3 } { 5 } = \frac { 1 + 3 } { 5 } = \frac { 4 } { 5 } $
+$ e ^ 0 _ { R I } ( v ^ 0 _ R ) = v ^ 0 _ R = S ^ 0 _ { e ^ 0 _ { R I } ( v ^ 0 _ R ) } $
+$ ( ( 1 2 \div 1 0 ) \div 4 ) - 1 0 6 \neq 1 7 4 $
+$ - \frac { n ^ { l + 1 } } { l + 1 } $
+$ \sqrt { \mbox { A } } $
+$ u ( x ) = a ( x + 1 ) $
+$ a + \sqrt { \frac { b + c } { d + f } } $
+$ a ^ 2 + a b + b a + b ^ 2 = a + b $
+"$ f _ 0 , \ldots , f _ p $"
+$ a $
+$ \sum \limits ^ { n + 1 } _ { i = 1 } i = \sum \limits ^ { n } _ { i = 1 } i + ( n + 1 ) = \frac { n ( n + 1 ) } { 2 } + n + 1 $
+$ ( x + y ) ^ n $
+$ \sqrt { l _ 1 } + \sqrt { l _ 2 } \geq \sqrt { l _ 3 } $
+$ a + \frac { \sqrt { b + c } } { 2 } $
+$ \frac { 1 - 2 + \frac { 3 } { 4 } } { { ( 5 - 6 ) ^ { 7 } } } $
+$ x _ { 1 } + x _ { 2 } = x _ { 3 } $
+$ \frac { \frac { 1 + \frac { 1 } { 2 } } { 3 } + \frac { 1 } { 4 } } { \frac { 1 } { 3 } + 1 + \frac { 2 } { 4 } } $
+$ \sum _ { n = 0 } ^ { \infty } f _ { n } ( x ) $
+$ \log _ 2 \left ( 2 ^ 5 \right ) = 5 $
+$ \sqrt { \frac { 1 } { n } \sum _ { k = 1 } ^ { n } { ( a _ { k } ) ^ { 2 } } } \geq \frac { 1 } { n } \sum _ { k = 1 } ^ { n } a _ { k } $
+$ \int _ a ^ b \frac { \sqrt x } 2 d x $
+$ \sum \alpha _ i + \sum \beta _ i = 1 $
+"$ g ( x , y ) = \sqrt [ 3 ] { x - y } + \sqrt { | x + y | } $"
+$ \frac { 5 } { x + 1 } + \frac { 5 } { { x ^ { 2 } } + x } $
+$ \pi - \theta $
+$ \sum _ { { \mbox { z } = \mbox { I } } } ^ { 8 . 1 } { { \cdots - \sum { \mbox { s } } } } $
+$ \frac { n ^ 2 - n - 4 } { 2 n ( k + n + 1 ) } + \frac { 2 } { n k } $
+$ \frac { \mbox { C } } { x } $
+$ \sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } } $
+$ F \neq H $
+$ c = 1 0 $
+$ + 2 - 2 + 2 - 2 + \ldots $
+$ a = \frac { v ^ 2 } { r } $
+$ \mu $
+$ \lim \frac { | a _ { n + 1 } x | } { | a _ n | } < 1 $
+$ ( \beta _ n ) $
+$ y ^ 2 \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0 $
+$ \sqrt { { b + f } } $
+$ \mu $
+$ q = \sqrt { ( \frac { B - A } { C } ) ^ 2 + 1 } + \frac { B - A } { C } $
+$ \lim _ { T \rightarrow \infty } x _ T ( t ) = x ( t ) $
+$ \lim _ { x \to c } f ( x ) = f ( c ) $
+$ \frac { 1 } { 2 } ( 1 \pm i ) $
+$ \lim _ { x \rightarrow - 1 } \frac { x ^ { 3 } + 1 } { x + 1 } $
+$ { C - { H - q } } $
+$ { - x } $
+$ \mbox { M } $
+$ \beta _ { n + 1 } $
+$ b ^ { - \theta _ 0 } $
+$ \sin \theta = \frac { y } { \sqrt { x ^ 2 + y ^ 2 } } $
+"$ t = 0 . 4 , 0 . 4 5 , 0 . 5 , 0 . 5 5 , 0 . 6 $"
+$ \cos \theta = \frac { x } { \sqrt { x ^ 2 + y ^ 2 } } $
+$ n = 1 5 0 0 $
+$ \mbox { R } \left ( { s } ^ { q } \right ) $
+$ 4 + 7 + 7 + 1 + 1 = 2 0 $
+$ a = b $
+$ { - \int \mbox { C } d V } $
+$ \frac { m } { \sqrt { 2 } } \sqrt { 1 + \frac { m ^ { 2 } } { 2 M ^ { 2 } } } $
+$ a _ { n } = n ^ { - 1 } $
+$ f ( e _ i ) = y _ i $
+$ \phi ^ { 3 } + 3 \phi ^ { 2 } + 1 8 \phi + 5 + 1 2 $
+$ ( ( 1 4 9 \div 1 2 0 ) \div 6 1 ) \div ( ( 5 + 1 4 3 ) \times ( 1 5 9 - 5 8 ) ) \neq 0 $
+$ \sum _ { n = 0 } ^ { \infty } f _ { n } ( x ) $
+$ x - n $
+$ \tan z = \frac { \sin z } { \cos z } $
+$ \sum { { X + \mbox { x } } } $
+$ \frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha } $
+$ \sum _ { n = 0 } ^ { \infty } f _ { n } ( x ) $
+$ \sum \alpha = 0 $
+$ m ^ { a } m ^ { b } m ^ { c } $
+$ x _ { i } - x _ { i + 1 } + x _ { i + 2 } $
+"$ h ( x , y ) = { x ^ { y + \frac { 1 } { y } } } $"
+$ 1 5 \pi $
+$ \left | $ \frac { a x _ 0 + b y _ 0 + c } { \sqrt { a ^ 2 + b ^ 2 } } \right | $
+$ \sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } } $
+$ 2 + 2 = 4 $
+$ { \left [ \mbox { G } \right ] } ^ { 0 } $
+$ \sin x = \sin ( x + 2 \pi k ) $
+$ a x + b \lt c $
+$ 2 x + 4 y + 8 z - 3 x - 7 y - 2 z + 4 x $
+$ \alpha _ { n + 1 } - 3 \beta = \frac { 2 } { 3 } \alpha _ { n } + \beta - 3 \beta $
+$ | \frac { 1 } { a _ { n } } - \frac { 1 } { x } | = | \frac { 1 } { x a _ { n } } | \cdot | a _ { n } - x | $
+$ u = 1 - m $
+$ { \mbox { d L } } _ { { x } _ { \mu } } $
+$ f ( x ) = x ^ 2 $
+$ d _ 0 = x _ 0 a + y _ 0 b $
+$ \frac { 7 } { 5 } $
+$ 2 \alpha + 3 \sqrt { \beta } $
+$ \sum \limits ^ { 1 } _ { k = 1 } a _ { k } = a _ { 1 } $
+$ { { \mbox { Y } - f } \leq \mbox { z } } $
+$ ( y - 3 ) ( y + 3 ) + y ( y + 3 ) = 0 $
+"$ f ( x , y ) = \frac { x } { y } + x y $"
+$ - \frac { 1 } { 2 } \pm \sqrt { H \left ( s + \frac { 1 } { 2 } \right ) + 4 } $
+$ { \mbox { x } \gt { \mbox { X } q } } $
+$ \sin ( \alpha + \beta ) \sin ( \alpha - \beta ) = \sin ^ 2 \alpha - \sin ^ 2 \beta $
+$ \frac { \sin B + \sin C } { \cos B + \cos C } $
+$ \lim _ { n \rightarrow \infty } n _ c / n = 1 $
+$ { \mbox { f } + V } $
+$ \gamma $
+$ a x + b \lt c $
+$ z _ { n + 1 } = p ( z _ n ) = ( z _ n ) ^ 2 $
+$ \sqrt { - g } $
+$ s ^ { i m n } s ^ { q r s } s ^ { p u w } s ^ { t v x } s _ { m p q } s _ { n s t } s _ { r u v } s _ { w } $
+$ \int { x ^ { n } } d x = \frac { { x ^ { n + 1 } } } { n + 1 } + C $
+$ \frac { - b - \sqrt { b ^ 2 - 4 a c } } { 2 a } $
+$ n = 2 ^ m $
+$ x _ 1 \times x _ 2 \times x _ 3 \times x _ 4 = X $
+$ ( 2 9 ) - 2 ( 1 6 ) + ( 3 ) = 2 9 - 3 2 + 3 = 0 $
+$ \mbox { C } $
+$ \frac { \tan \alpha - \tan \beta } { 1 + \tan \alpha \tan \beta } $
+$ \lim _ { x \rightarrow \frac { \pi } { 2 } + 0 } \tan x = - \infty $
+$ { x ^ { y } } - { y ^ { x } } $
+$ X = \frac x { 2 7 } + \frac y { 1 3 } $
+$ t = \frac { t _ { 0 } } { \sqrt { 1 - \frac { { v ^ { 2 } } } { { c ^ { 2 } } } } } $
+$ a _ { 1 } + a _ { 2 } $
+"$ a = 0 , 1 $"
+$ F ( t ) = { e } ^ { h t } $
+$ \mu $
+$ | a + i b | = \sqrt { { x ^ { 2 } } + { y ^ { 2 } } } $
+$ w ( x ) = x ^ { 2 a + 1 } e ^ { - n x } $
+$ 0 $
+$ \lim _ { n \to \infty } ( \sqrt { n + 2 } - \sqrt { n } ) = 0 $
+$ \lim _ { i \rightarrow \infty } p _ i p _ i = \infty $
+$ c ^ 2 = a ^ 2 + b ^ 2 - 2 a b \cos C $
+$ \alpha ( a b ) = ( \alpha a ) b = a ( \alpha b ) $
+$ 2 . 4 $
+$ 5 0 ! \cdot n = 4 8 ! $
+$ { - 7 . 9 } $
+$ \frac { 2 \tan \alpha } { 1 - \tan ^ { 2 } \alpha } $
+$ - 8 x ^ { 5 } - 8 x y ^ { 4 } - 6 x ^ { 3 } y ^ { 2 } - 4 8 x ^ { 3 } z ^ { 2 } - 5 2 x y ^ { 2 } z ^ { 2 } - 8 x z ^ { 4 } $
+$ 2 ^ { s + 1 3 } $
+$ ( 3 + 4 ) ^ 3 = 3 4 3 $
+$ Y = X ^ 2 $
+$ 1 - e ^ 2 = \frac { p } { a } $
+$ \frac { { w - \mbox { t } } } { \tan r } $
+$ \sqrt { x - y - z + x ^ { 2 } + y ^ { 2 } + z ^ { 2 } } $
+$ x ^ { - 1 } = \frac { 1 } { x } $
+$ \sin \alpha = 0 $
+$ \sin ^ 2 ( x ) + \cos ^ 2 ( x ) = 1 $
+$ 5 $
+$ \phi ( n ) = ( p - 1 ) ( q - 1 ) = n + 1 - s $
+$ x \rightarrow a $
+$ y ^ 4 + y + 1 = 0 $
+$ \int _ { \mbox { x d } } ^ { { - L } } { c - \frac { \mbox { j } } { \mbox { l } } } d x $
+$ P ( x ) = \sum _ { i = 0 } ^ { n } a _ j x ^ j $
+$ \frac { 1 } { \sqrt { b } } $
+$ ( x + 1 ) ( 8 x ^ 3 - 4 x ^ 2 - 4 x + 1 ) = 0 $
+$ \sqrt 5 x ^ 2 - 6 x + \sqrt 5 = 0 $
+$ \frac { 3 } { 5 } h $
+$ { \sqrt { N } } ^ { { u + 9 } } $
+$ \tan 2 u = \frac { 2 \tan u } { 1 - \tan ^ { 2 } u } $
+$ \int \left ( 2 ^ { x } - 3 e ^ { x } \right ) d x $
+$ \frac { q - p } { \sqrt { p q } } $
+$ \int d ^ 2 x $
+$ m = \frac { A . k . R } { g } $
+$ 2 \pi n ! e = 2 \pi n ! + \frac { 2 \pi n ! } { 2 } + \frac { 2 \pi n ! } { 3 ! } + \frac { 2 \pi n ! } { 4 ! } + \ldots $
+$ \sum _ { k = 1 } ^ 4 k ^ 2 $
+$ \pi \int _ c ^ d \ { g ( y ) \ } ^ 2 d y $
+$ \frac { 1 } { x } $
+$ \left ( 4 . 8 \right ) $
+$ 2 4 \pm ( ( 5 6 / 1 1 0 ) - ( 5 4 / 1 4 4 ) ) - ( 2 2 + 1 0 4 + 3 0 - 7 7 ) $
+$ x g ^ { - 1 } g y = x y $
+$ a + \sqrt { \frac { b + c } { d + f } } $
+$ l o g 5 + \log 4 x = 2 $
+$ \lim ( u _ n ) = + \infty $
+$ \int ^ { n } _ { { z o } } { \mbox { p } - B } d d $
+$ 1 6 9 $
+$ \frac { 2 4 3 } { 1 5 4 } = \frac { 3 } { 2 } + \frac { 6 } { 7 7 } $
+$ \lim _ { n \to \infty } \frac { n ! } { \sqrt { 2 \pi n } ( \frac { n } { e } ) } = 1 $
+$ 2 + \sqrt { 3 } $
+$ v = v _ { 0 } t - g { t ^ { 2 } } $
+$ 2 8 + ( ( 1 7 3 + 1 2 ) \times 9 ) = 1 6 9 3 $
+"$ f ( x , y ) = f _ { 1 } ( x y ) + f _ { 2 } ( \frac { x } { y } ) $"
+$ 5 . 3 $
+$ 1 1 6 \div 1 4 5 = 0 . 8 0 $
+$ ( 1 \div a ) $
+$ \mbox { H } $
+$ 4 $
+"$ g ( x , y ) = \sqrt [ 3 ] { x - y } + \sqrt { | x + y | } $"
+$ 1 5 0 - ( ( 6 9 / 7 7 ) / 2 6 ) \neq - 1 0 7 $
+$ 1 2 4 5 \times 2 6 - 2 7 9 \times 1 1 6 = 6 $
+$ 1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 } $
+$ b = b _ 0 + b _ 1 + \ldots + b _ k $
+$ \mbox { w } $
+$ x + y = 3 $
+$ \cos \left ( 0 \right ) = 1 $
+$ 1 4 + 5 4 - 1 1 6 \neq - 1 2 $
+$ x ^ 2 + y ^ 2 = z ^ 2 $
+$ n ! - 1 $
+$ \theta ( x ) $
+$ \frac { \sin z } { z } $
+$ { q } ^ { { \cdots + T } } $
+$ { x ^ { y } } - { y ^ { x } } $
+$ { 6 ^ { 6 } } \cdot { 6 ^ { 2 } } = { ( { 6 ^ { x } } ) ^ { 4 } } $
+$ a ( u ) $
+$ \frac { 1 } { 3 } \pi r ^ 2 h $
+$ x _ { 1 } = \frac { ( 1 - \frac { 2 } { \sqrt { N - 1 } } ) N } { L } $
+$ a ( n ) = \sum _ { k = 1 } ^ n ( - 1 ) ^ { n - k } k ! $
+$ ( \frac { 1 } { { m ^ { 2 } } } - \frac { 3 m } { n } + \frac { 2 } { m n } ) $
+$ 3 7 . 4 $
+$ \sin 6 \theta $
+$ \frac { { N + 9 } } { \frac { B } { \mbox { S } } } $
+$ H _ 5 = X ^ 5 - 1 0 X ^ 3 + 1 5 X $
+$ x ^ 4 = b r \sin \theta \cos \phi $
+$ w _ { i j } = \frac { 1 } { n } \sum _ { k = 1 } ^ p x _ i ^ k x _ j ^ k $
+$ \int \cos t d t = \sin t $
+$ a \times a $
+$ \sum _ { n = 1 } ^ { \infty } ( b _ { n } - b _ { n + 1 } ) $
+$ \sum _ m f \left ( m + 3 \right ) $
+$ u _ { 0 } = a $
+$ u ( b ) $
+$ [ \frac 2 3 x ^ { \frac 3 2 } ] _ 0 ^ 1 $
+$ \sum \alpha = 3 p = - 2 1 $
+$ \lim _ { x \rightarrow 1 } f ( x ) = \lim _ { x \rightarrow 1 } \frac { x + 4 } { 2 x + 1 } = \frac { 5 } { 3 } $
+$ \int \limits _ { 3 } ^ { 6 } \int \limits _ { 2 } ^ { 4 } 2 d x d y = 2 \cdot ( 6 - 3 ) \cdot ( 4 - 2 ) = 1 2 $
+$ l o g 5 + \log 4 x = 2 $
+$ \sqrt [ 3 ] { \frac { { z ^ { 3 } } + 2 } { \sqrt { z } + 1 } } $
+"$ f _ o ( x ) = f _ o ( 0 , x ) $"
+$ z _ 3 - \frac { 1 } { 2 } \leq z _ 8 \leq z _ 3 + \frac { 1 } { 2 } $
+$ ( \sqrt 5 ) ^ 3 + ( \sqrt 2 ) ^ 3 $
+$ \left ( x ^ { 3 } - x ^ { 2 } - x \right ) \left ( 2 x - 7 \right ) $
+$ x ^ { - z } = z ^ { - 1 } x ^ { - 1 } z $
+$ | \sin z | = \sqrt { 1 - \cos ^ { 2 } z } $
+$ \pi \int _ c ^ d \ { g ( y ) \ } ^ 2 d y $
