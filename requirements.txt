@@ -1,16 +1,15 @@
-streamlit==1.38.0
-pandas==2.3.2
-numpy==2.2.5
-Pillow==10.4.0
-torch==2.6.0
+
+
+streamlit==1.49.1
+torch==2.5.1
 torchvision==0.21.0
-
-transformers==4.55.4
+transformers==4.45.2
 tokenizers==0.21.0
-huggingface_hub==0.37.0
-
-tqdm==4.66.4
-requests==2.32.3
-
+huggingface_hub==0.26.2
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.4.0
+tqdm
+requests
 
 
